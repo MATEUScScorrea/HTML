@@ -1,2 +1,2 @@
 # HTML&CSS
- Study abou HTML and CSS :D
+ Study abouu HTML and CSS :D
